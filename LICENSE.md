@@ -1,10 +1,10 @@
 # [HTML5 Blank](http://html5blank.com) License
 
-## MIT License
+## Gigazone Global Dynamics is the owner of the license and therefore Copyright coding herewith as the license owner we do not permit extubation of our resources.
 
 **Copyright &copy; 2013-2018** HTML5 Blank // [@html5blank](https://www.twitter.com/html5blank)
 
-**Built by** Todd Motto // [@toddmotto](https://www.twitter.com/toddmotto)
+**Built by** Gigazone Global Dynamics and other developers Todd Motto // @GigazoneGD  [@toddmotto](https://www.twitter.com/toddmotto)
 
 **Maintained by** Robert DeVore // [@deviorobert](https://www.twitter.com/deviorobert)
 
